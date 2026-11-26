@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-label="银河云全球多地区高速节点分布图">
+  <defs>
+    <linearGradient id="bg3" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b0f1e"/>
+      <stop offset="100%" stop-color="#142347"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="360" fill="url(#bg3)"/>
+  <circle cx="320" cy="180" r="118" fill="none" stroke="#38bdf8" stroke-opacity="0.35" stroke-width="2"/>
+  <ellipse cx="320" cy="180" rx="64" ry="118" fill="none" stroke="#6366f1" stroke-opacity="0.4" stroke-width="2"/>
+  <ellipse cx="320" cy="180" rx="118" ry="48" fill="none" stroke="#38bdf8" stroke-opacity="0.35" stroke-width="2"/>
+  <line x1="160" y1="120" x2="320" y2="180" stroke="#38bdf8" stroke-width="2.5" stroke-opacity="0.7"/>
+  <line x1="485" y1="115" x2="320" y2="180" stroke="#8b5cf6" stroke-width="2.5" stroke-opacity="0.7"/>
+  <line x1="465" y1="255" x2="320" y2="180" stroke="#38bdf8" stroke-width="2.5" stroke-opacity="0.7"/>
+  <line x1="175" y1="248" x2="320" y2="180" stroke="#6366f1" stroke-width="2.5" stroke-opacity="0.7"/>
+  <circle cx="320" cy="180" r="14" fill="#38bdf8"/>
+  <circle cx="160" cy="120" r="10" fill="#6366f1"/>
+  <circle cx="485" cy="115" r="10" fill="#34d399"/>
+  <circle cx="465" cy="255" r="10" fill="#38bdf8"/>
+  <circle cx="175" cy="248" r="10" fill="#8b5cf6"/>
+  <text x="108" y="102" fill="#cbd5e1" font-size="14" font-family="Microsoft YaHei, sans-serif">香港 / 台湾</text>
+  <text x="454" y="96" fill="#cbd5e1" font-size="14" font-family="Microsoft YaHei, sans-serif">日本 / 新加坡</text>
+  <text x="434" y="286" fill="#cbd5e1" font-size="14" font-family="Microsoft YaHei, sans-serif">北美西岸专线</text>
+  <text x="112" y="280" fill="#cbd5e1" font-size="14" font-family="Microsoft YaHei, sans-serif">欧洲核心枢纽</text>
+</svg>
